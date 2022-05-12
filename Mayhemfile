@@ -1,0 +1,6 @@
+project: waitmap
+target: insert
+duration: 90
+
+cmds:
+    - cmd: /insert
